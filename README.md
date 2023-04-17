@@ -1,5 +1,6 @@
 ### Hi there,I'm Ndiene👋 
-**data science enthusiast with a passion for building elegant and insightful applications. Proficient in Python, SQL, and various data analysis and visualization tools. Always seeking to expand my knowledge and explore new opportunities in the tech industry.**
+**Web developer and data science enthusiast with a passion for building elegant and insightful applications. Proficient in Python, SQL, and various data analysis and visualization tools. Always seeking to expand my knowledge and explore new opportunities in the tech industry.**
+
 - 🔭 I’m currently working on developing my coding skills and building various personal projects using Python, Java, and JupiterNotebook
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on open-source projects that involve web development or data science.
