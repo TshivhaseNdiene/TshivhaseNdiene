@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open-source projects that involve web development or data science.
 - 🤔 I’m looking for help with improving my machine Learning skills and learning more about data visualization.
 - 💬 Ask me about anything related to web development or data science! I'm always happy to help.
-- 📫 You can reach me via email at tshivhasendiene@gmail.com or connect with me on LinkedIn.
+- 📫 You can reach me via email at tshivhasendiene@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/ndiene-tshivhase-927623171.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an amateur astronomer and love stargazing!
 <!--
